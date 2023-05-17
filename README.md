@@ -15,14 +15,7 @@
 - 💡 Drink a lot of water ♦️ Hydration check ♦️
     
     <h3 align="left">⚒️Languages and Tools:</h3>
-    <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-
-    
+    <h3 align-"left">🔥My Stats</h3>
+    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yashwanth-Chandrakumar&theme=dark&hide_border=true)](https://git.io/streak-stats)
   </body>
   </html>
