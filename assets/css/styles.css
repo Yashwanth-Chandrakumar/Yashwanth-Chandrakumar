@@ -396,7 +396,9 @@ img {
   outline: none;
   margin-bottom: var(--mb-4);
 }
-
+#download{
+  width: 8rem;
+}
 .contact__button {
   display: block;
   border: none;
