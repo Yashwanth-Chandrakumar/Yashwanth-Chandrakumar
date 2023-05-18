@@ -36,7 +36,7 @@ function scrollActive(){
             document.querySelector('.nav__menu a[href*=' + sectionId + ']').classList.add('active');
 
             if(scrollY > sectionTop && scrollY <= sectionTop + sectionHeight){
-            document.getElementById('h1').innerHTML=`<a href="https:/www.linkedin.com/in/yashwanth-chandrakumar-948520255/" target="_blank" class="home__social-icon"><i class='bx bxl-linkedin'></i></a>`;
+            document.getElementById('h1').innerHTML=`<a href="https://www.linkedin.com/in/yashwanth-chandrakumar-948520255/" target="_blank" class="home__social-icon"><i class='bx bxl-linkedin'></i></a>`;
             document.getElementById('h2').innerHTML=` <a href="https://github.com/Yashwanth-Chandrakumar/Yashwanth.github.io/blob/main/README.md" target="_blank" class="home__social-icon"><i class='bx bxl-github' ></i></a>`;
         }
             if(sectionId=="#home") {
