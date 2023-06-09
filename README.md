@@ -29,6 +29,20 @@
 ![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)
     
 <h3 align-"left">🔥My Stats</h3>
+<p align="center">
+  <a href="https://github.com/wervlad">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yashwanth-Chandrakumar&theme=transparent" />
+  </a>
+  <a href="https://github.com/wervlad">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashwanth-Chandrakumar&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/wervlad">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yashwanth-Chandrakumar&theme=transparent" />
+  </a>
+  <a href="https://github.com/wervlad">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanth-Chandrakumar&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
 <img src="http://github-readme-streak-stats.herokuapp.com?user=Yashwanth-Chandrakumar&theme=dark&hide_border=true">
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Yashwanth-Chandrakumar&style=flat-square&color=blue" height="28px" alt=""/></p>
   </body>
