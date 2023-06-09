@@ -23,8 +23,8 @@
     
 <h3 align-"left">🧑‍💻OS</h3>
     
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)]
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)]
+![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)
+![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)
     
 <h3 align-"left">🔥My Stats</h3>
 <img src="http://github-readme-streak-stats.herokuapp.com?user=Yashwanth-Chandrakumar&theme=dark&hide_border=true">
