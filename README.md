@@ -30,6 +30,6 @@
     
 <h3 align-"left">🔥My Stats</h3>
 <img src="http://github-readme-streak-stats.herokuapp.com?user=Yashwanth-Chandrakumar&theme=dark&hide_border=true">
-<p align-"center"><img src="https://komarev.com/ghpvc/?username=Yashwanth-Chandrakumar&style=flat-square&color=blue" height="28px" alt=""/></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Yashwanth-Chandrakumar&style=flat-square&color=blue" height="28px" alt=""/></p>
   </body>
   </html>
