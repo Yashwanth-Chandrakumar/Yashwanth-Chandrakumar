@@ -19,7 +19,9 @@
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/Yashwanth-Chandrakumar)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Yashwanth-Chandrakumar)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/Yashwanth-Chandrakumar)
-[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/Yashwanth-Chandrakumar)
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Yashwanth-Chandrakumar)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Yashwanth-Chandrakumar)
+[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/Yashwanth-Chandrakumar)
     
 <h3 align-"left">🧑‍💻OS</h3>
     
@@ -28,6 +30,6 @@
     
 <h3 align-"left">🔥My Stats</h3>
 <img src="http://github-readme-streak-stats.herokuapp.com?user=Yashwanth-Chandrakumar&theme=dark&hide_border=true">
-<p align-"center"><img src="https://komarev.com/ghpvc/?username=Yashwanth-Chandrakumar&style=flat-square&color=blue" height="28px" align="right" alt=""/></p>
+<p><img src="https://komarev.com/ghpvc/?username=Yashwanth-Chandrakumar&style=flat-square&color=blue" height="28px" align="center" alt=""/></p>
   </body>
   </html>
