@@ -41,7 +41,7 @@
   </a>
   
 </p>
-<img src="http://github-readme-streak-stats.herokuapp.com?user=Yashwanth-Chandrakumar&theme=dark&hide_border=true" align="center">
+<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=Yashwanth-Chandrakumar&theme=dark&hide_border=true"></p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Yashwanth-Chandrakumar&style=flat-square&color=blue" height="28px" alt=""/></p>
   </body>
   </html>
