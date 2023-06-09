@@ -31,7 +31,7 @@
 <h3 align-"left">🔥My Stats</h3>
 <p align="center">
   <a href="https://github.com/Yashwanth-Chandrakumar">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yashwanth-Chandrakumar&theme=light" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yashwanth-Chandrakumar&theme=transparent" />
   </a>
   <a href="https://github.com/Yashwanth-Chandrakumar">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashwanth-Chandrakumar&hide_border=true&card_width=338&theme=dark" />
