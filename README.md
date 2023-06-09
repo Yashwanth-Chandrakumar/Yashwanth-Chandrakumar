@@ -14,14 +14,18 @@
 
 - 💡 Drink a lot of water ♦️ Hydration check ♦️
     <h3 align-"left">📜Languages and frameworks</h3>
+    
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/Yashwanth-Chandrakumar)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/Yashwanth-Chandrakumar)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Yashwanth-Chandrakumar)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/Yashwanth-Chandrakumar)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/Yashwanth-Chandrakumar)
+    
     <h3 align-"left">🧑‍💻OS</h3>
+    
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)]
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)]
+    
     <h3 align-"left">🔥My Stats</h3>
     <img src="http://github-readme-streak-stats.herokuapp.com?user=Yashwanth-Chandrakumar&theme=dark&hide_border=true">
     
