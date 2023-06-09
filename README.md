@@ -13,7 +13,14 @@
 - 📜 Get to know me in detail [Download Resume](https://github.com/Yashwanth-Chandrakumar/Yashwanth-Portfolio.github.io/blob/main/assets/Yashwanth%20Resume.pdf)
 
 - 💡 Drink a lot of water ♦️ Hydration check ♦️
-    
+    <h3 align-"left">📜Languages and frameworks</h3>
+    [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)]
+    [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)]
+    [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
+    [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)]
+    <h3 align-"left">🧑‍💻OS</h3>
+    [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)]
+    [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)]
     <h3 align-"left">🔥My Stats</h3>
     <img src="http://github-readme-streak-stats.herokuapp.com?user=Yashwanth-Chandrakumar&theme=dark&hide_border=true">
     
