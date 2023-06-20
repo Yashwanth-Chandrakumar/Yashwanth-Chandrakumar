@@ -43,7 +43,6 @@
 html {
   scroll-behavior: smooth;
 }
-
 body {
   margin: var(--header-height) 0 0 0;
   font-family: var(--body-font);
@@ -92,12 +91,20 @@ img {
   top: 2rem;
   background-color: var(--first-color);
 }
-
+#abt{
+  text-align: left;
+  margin-right: -100px;
+}
 .section {
   padding-top: 3rem;
   padding-bottom: 2rem;
 }
-
+#threed{
+  height: 650px;
+  width:800px;
+  margin-right: 20px;
+  margin-left: -50px;
+}
 /*===== LAYOUT =====*/
 .bd-grid {
   max-width: 1024px;
@@ -348,6 +355,9 @@ img {
 }
 #download{
   width: 8rem;
+}
+#linktop{
+  margin-top: 2rem;
 }
 /* ===== WORK =====*/
 .work__container {
