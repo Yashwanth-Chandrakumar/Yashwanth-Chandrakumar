@@ -93,17 +93,16 @@ img {
 }
 #abt{
   text-align: left;
-  margin-right: -100px;
+  margin-left: 20px;
 }
 .section {
   padding-top: 3rem;
   padding-bottom: 2rem;
 }
 #threed{
-  height: 650px;
-  width:800px;
-  margin-right: 20px;
-  margin-left: -50px;
+  height: 90vh;
+  width:60vw;
+  margin-left: -10vw;
 }
 /*===== LAYOUT =====*/
 .bd-grid {
@@ -447,12 +446,17 @@ img {
 }
 
 /* ===== MEDIA QUERIES=====*/
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 450px) {
   .home {
     row-gap: 2rem;
   }
   .home__img {
     width: 200px;
+  }
+  #threed{
+    width: 350px;
+    margin-right: -40px;
+
   }
 }
 
