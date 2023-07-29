@@ -241,7 +241,7 @@ img {
 }
 
 .home__blob-img {
-  width: 360px;
+  width: 350px;
 }
 
 /*BUTTONS*/
@@ -338,6 +338,12 @@ img {
 .skills__js {
   width: 55%;
 }
+.skills__py {
+  width: 65%;
+}
+.skills__cpp {
+  width: 100%;
+}
 
 #logo p{
   display: inline;
@@ -351,6 +357,8 @@ img {
 }
 .skills__img {
   border-radius: .5rem;
+  height: 60vh;
+  width: 70vw;
 }
 #download{
   width: 8rem;
