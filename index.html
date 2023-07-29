@@ -53,15 +53,21 @@
                 </div>
 
                 <div class="home__img">
-                    <svg class="home__blob" viewBox="0 0 479 467" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                        <mask id="mask0" mask-type="alpha">
-                            <path d="M9.19024 145.964C34.0253 76.5814 114.865 54.7299 184.111 29.4823C245.804 6.98884 311.86 -14.9503 370.735 14.143C431.207 44.026 467.948 107.508 477.191 174.311C485.897 237.229 454.931 294.377 416.506 344.954C373.74 401.245 326.068 462.801 255.442 466.189C179.416 469.835 111.552 422.137 65.1576 361.805C17.4835 299.81 -17.1617 219.583 9.19024 145.964Z"/>
-                        </mask>
-                        <g mask="url(#mask0)">
-                            <path d="M9.19024 145.964C34.0253 76.5814 114.865 54.7299 184.111 29.4823C245.804 6.98884 311.86 -14.9503 370.735 14.143C431.207 44.026 467.948 107.508 477.191 174.311C485.897 237.229 454.931 294.377 416.506 344.954C373.74 401.245 326.068 462.801 255.442 466.189C179.416 469.835 111.552 422.137 65.1576 361.805C17.4835 299.81 -17.1617 219.583 9.19024 145.964Z"/>
-                            <image class="home__blob-img" x="50" y="60" href="assets\img\perfil.jpg"/>
-                        </g>
-                    </svg>
+                    
+                        <svg width="500" height="500" xmlns="http://www.w3.org/2000/svg">
+                            <!-- Define the pattern using the background image -->
+                            <defs>
+                                <pattern id="imagePattern" x="0" y="0" width="1" height="1">
+                                    <image href="assets\img\perfil.jpg" x="0" y="0" width="500" height="500" />
+                                </pattern>
+                            </defs>
+                        
+                            <!-- The blob shape with the background image filling it -->
+                            <g mask="url(#mask0)">
+                                <path d="M9.19024 145.964C34.0253 76.5814 114.865 54.729 184.111 29.4823C245.804 6.98884 311.86 -14.9503 370.735 14.143C431.207 4.026 467.948 107.508 477.191 174.311C485.897 237.229 454.931 294.377 416.506 344.954C373.74 401.245 326.068 462.801 255.442 466.189C179.416 469.835 111.552 422.137 65.1576 361.805C17.4835 299.81 -17.1617 219.583 9.19024 145.964Z"
+                                      fill="url(#imagePattern)" />
+                            </g>
+                        </svg>
                </div>
             </section>
 
@@ -80,7 +86,8 @@
                         <p class="about__text" id="abt"> An engineering student with a profound interest in design. I am proficient in web development, video/photo editing.
 
                             My studies have provided me with broad proficiency in software packages and techniques. Alongside this, I have developed sound communication skills while delivering presentations and organizing workshops for large audiences. As such, I am confident that I can make an instant impact in roles. I am eager to hear about potential career opportunities.</p>           
-                    </div>                                   
+                            <p class="about__text" id="abt"><----This is a 3D image check it out.</p>
+                        </div>                                   
                 </div>
             </section>
 
@@ -126,6 +133,30 @@
                             </div>
                             <div>
                                 <span class="skills__percentage">55%</span>
+                            </div>
+                        </div>
+                        <div class="skills__data">
+                            <div class="skills__names">
+                                <i class='bx bxl-javascript skills__icon' ></i>
+                                <span class="skills__name">Python</span>
+                            </div>
+                            <div class="skills__bar skills__py">
+                                
+                            </div>
+                            <div>
+                                <span class="skills__percentage">65%</span>
+                            </div>
+                        </div>
+                        <div class="skills__data">
+                            <div class="skills__names">
+                                <i class='bx bxl-javascript skills__icon' ></i>
+                                <span class="skills__name">C++</span>
+                            </div>
+                            <div class="skills__bar skills__cpp">
+                                
+                            </div>
+                            <div>
+                                <span class="skills__percentage">100%</span>
                             </div>
                         </div>
                        
