@@ -1,47 +1,31 @@
-<html>
-  <body>
-    <h1 align="center">Hi 👋 I am Yashwanth</h1>
-    <h3 align="center">I am an aspiring student from India interested in Web development and design.</h3>
-    <p align="center"> <a href="https://www.linkedin.com/in/yashwanth-chandrakumar-948520255/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Yashwanth" /></a> </p>
-    
-- 🪴 I’m currently learning ♦️ React JS, Argumented Reality ♦️
+<h1 align="center">Hi 👋, I'm Yashwanth S C</h1>
+<h3 align="center">I am an aspiring student from India interested in Web development and design.</h3>
 
-- 🗨️ Ask me about ♦️ Html / CSS / JS ♦️
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashwanth-chandrakumar&label=Profile%20views&color=0e75b6&style=flat" alt="yashwanth-chandrakumar" /> </p>
 
-- 📫 Reach me at yashwanth2k05@gmail.com
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashwanth-chandrakumar" alt="yashwanth-chandrakumar" /></a> </p>
 
-- 📜 Get to know me in detail [Download Resume](https://github.com/Yashwanth-Chandrakumar/Yashwanth-Portfolio.github.io/blob/main/assets/Yashwanth%20Resume.pdf)
+- 🌱 I’m currently learning **Reacts JS, Artificial Intelligence**
 
-- 💡 Drink a lot of water ♦️ Hydration check ♦️
-<h3 align-"left">📜Languages and frameworks</h3>
-    
-[![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/Yashwanth-Chandrakumar)
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/Yashwanth-Chandrakumar)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Yashwanth-Chandrakumar)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/Yashwanth-Chandrakumar)
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Yashwanth-Chandrakumar)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Yashwanth-Chandrakumar)
-[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/Yashwanth-Chandrakumar)
-    
-<h3 align-"left">🧑‍💻OS</h3>
-    
-![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)
-![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)
-    
-<h3 align-"left">🔥My Stats</h3>
-<p align="center">
-  <a href="https://github.com/Yashwanth-Chandrakumar">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yashwanth-Chandrakumar&theme=transparent" />
-  </a>
-  <a href="https://github.com/Yashwanth-Chandrakumar">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashwanth-Chandrakumar&hide_border=true&card_width=338&theme=dark" />
-  </a>
-  <a href="https://github.com/Yashwanth-Chandrakumar">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yashwanth-Chandrakumar&theme=dark" />
-  </a>
-  
+- 👨‍💻 All of my projects are available at [https://yashwanth-chandrakumar.github.io/Yashwanth-Chandrakumar/](https://yashwanth-chandrakumar.github.io/Yashwanth-Chandrakumar/)
+
+- 📝 I regularly write articles on [https://medium.com/@yashwanth2k05/healthcare-using-artificial-intelligence-the-future-of-medicine-ed53d2e14881](https://medium.com/@yashwanth2k05/healthcare-using-artificial-intelligence-the-future-of-medicine-ed53d2e14881)
+
+- 💬 Ask me about **Front-End Web Development**
+
+- 📫 How to reach me **yashwanth2k05@gmail.com**
+
+- 📄 Know about my experiences [https://github.com/Yashwanth-Chandrakumar/Yashwanth-Chandrakumar/blob/main/assets/Yashwanth%20Resume.pdf](https://github.com/Yashwanth-Chandrakumar/Yashwanth-Chandrakumar/blob/main/assets/Yashwanth%20Resume.pdf)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
-<!-- <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=Yashwanth-Chandrakumar&theme=dark&hide_border=true"></p> -->
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Yashwanth-Chandrakumar&style=flat-square&color=blue" height="28px" alt=""/></p>
-  </body>
-  </html>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashwanth-chandrakumar&show_icons=true&locale=en&layout=compact" alt="yashwanth-chandrakumar" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashwanth-chandrakumar&show_icons=true&locale=en" alt="yashwanth-chandrakumar" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashwanth-chandrakumar&" alt="yashwanth-chandrakumar" /></p>
