@@ -53,21 +53,32 @@
                 </div>
 
                 <div class="home__img">
-                    
-                        <svg width="500" height="500" xmlns="http://www.w3.org/2000/svg">
-                            <!-- Define the pattern using the background image -->
-                            <defs>
-                                <pattern id="imagePattern" x="0" y="0" width="1" height="1">
-                                    <image href="assets\img\perfil.jpg" x="0" y="0" width="500" height="500" />
-                                </pattern>
-                            </defs>
-                        
-                            <!-- The blob shape with the background image filling it -->
-                            <g mask="url(#mask0)">
-                                <path d="M9.19024 145.964C34.0253 76.5814 114.865 54.729 184.111 29.4823C245.804 6.98884 311.86 -14.9503 370.735 14.143C431.207 4.026 467.948 107.508 477.191 174.311C485.897 237.229 454.931 294.377 416.506 344.954C373.74 401.245 326.068 462.801 255.442 466.189C179.416 469.835 111.552 422.137 65.1576 361.805C17.4835 299.81 -17.1617 219.583 9.19024 145.964Z"
-                                      fill="url(#imagePattern)" />
-                            </g>
-                        </svg>
+                    <svg viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg">
+                        <defs>
+                          <radialGradient id="c" r="100%" cx="36%" cy="94%">
+                            <stop offset="0%" stop-color="#00DBDE"/>
+                            <stop offset="100%" stop-color="#FC00FF"/>
+                          </radialGradient>
+                          <clipPath id="b">
+                            <path fill="currentColor" d="M882.5 667.5Q767 835 593.5 842.5t-313.5-81Q140 673 198.5 528t135-283.5Q410 106 597 125t294 197q107 178-8.5 345.5Z"/>
+                          </clipPath>
+                          <filter id="a" x="-50vw" y="-50vh" width="100vw" height="100vh">
+                            <feFlood flood-color="#fff" result="neutral-gray"/>
+                            <feTurbulence type="fractalNoise" baseFrequency="2.5" numOctaves="100" stitchTiles="stitch" result="noise"/>
+                            <feColorMatrix in="noise" type="saturate" values="0" result="destaturatedNoise"/>
+                            <feComponentTransfer in="desaturatedNoise" result="theNoise">
+                              <feFuncA type="table" tableValues="0 0 0.05 0"/>
+                            </feComponentTransfer>
+                            <feBlend in="SourceGraphic" in2="theNoise" mode="soft-light" result="noisy-image"/>
+                          </filter>
+                        </defs>
+                        <g filter="url(#a)" clip-path="url(#b)">
+                          <path fill="url(#c)" d="M882.5 667.5Q767 835 593.5 842.5t-313.5-81Q140 673 198.5 528t135-283.5Q410 106 597 125t294 197q107 178-8.5 345.5Z"/>
+                          <!-- Add the <image> element here -->
+                          <image x="100" y="-100" width="1000" height="1000" xlink:href="assets\img\perfil.jpg"/>
+                        </g>
+                      </svg>
+                      
                </div>
             </section>
 
@@ -77,7 +88,7 @@
 
                 <div class="about__container bd-grid">
                     <div class="about__img">
-                        <iframe src='https://my.spline.design/roomrelaxingcopy-e0fdfed3e9878951637387188e9a4115/' frameborder='0' id="threed"></iframe>
+                        <!-- <iframe src='https://my.spline.design/roomrelaxingcopy-e0fdfed3e9878951637387188e9a4115/' frameborder='0' id="threed"></iframe> -->
                 
                     </div>
                     
@@ -241,7 +252,9 @@
     From : "yashwanthus1031@outlook.com",
     Subject : "Mail from website",
     Body :"hello first mail" ,
-});
+}).then(
+  message => alert("Thanks for contacting me")
+);
             }
         </script>
         
