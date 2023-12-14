@@ -27,6 +27,25 @@
 [![NodeJS](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/Yashwanth-Chandrakumar)
 [![MUI](https://img.shields.io/badge/MUI-black.svg?style=for-the-badge&logo=mui&logoColor=white)](https://github.com/Yashwanth-Chandrakumar)
 [![MySQL](https://img.shields.io/badge/mysql-black.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Yashwanth-Chandrakumar)
+[![Figma](https://img.shields.io/badge/figma-black.svg?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/Yashwanth-Chandrakumar)
+[![AWS](https://img.shields.io/badge/AWS-black.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/Yashwanth-Chandrakumar)
+[![Netlify](https://img.shields.io/badge/netlify-black.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://github.com/Yashwanth-Chandrakumar)
+
+<h3 align-"left">⚒️ Building my skills on</h3>
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/yashwanth_sc/)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-black?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/yashwanth2k05)
+[![CodeChef](https://img.shields.io/badge/CodeChef-black.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/yashwanthsc)
+[![Hackerearth](https://img.shields.io/badge/HackerEarth-black.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://github.com/Yashwanth-Chandrakumar)
+[![Kaggle](https://img.shields.io/badge/Kaggle-black?style=for-the-badge&logo=kaggle&logoColor=white)](https://github.com/Yashwanth-Chandrakumar)
+[![codingninjas](https://img.shields.io/badge/coding%20ninjas-black?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.codingninjas.com/studio/profile/YashwanthSC)
+
+<h3 align-"left">🤝My Current Partner(IDE)</h3>
+
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://github.com/Yashwanth-Chandrakumar)
+[![PyCharm](https://img.shields.io/badge/pycharm-black?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://github.com/Yashwanth-Chandrakumar)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-black.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://github.com/Yashwanth-Chandrakumar)
+
 <h3 align-"left">🧑‍💻OS</h3>
 
 ![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)
