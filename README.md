@@ -40,3 +40,7 @@
   <a href="https://github.com/Yashwanth-Chandrakumar">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yashwanth-Chandrakumar&theme=dark" />
   </a>
+  <a href="https://github.com/Yashwanth-Chandrakumar">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yashwanth-Chandrakumar&show_icons=true&locale=en&theme=dark" alt="vignesh2004vasu" />
+  </a>
+
