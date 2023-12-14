@@ -26,6 +26,7 @@
 [![Spring](https://img.shields.io/badge/spring-black.svg?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/Yashwanth-Chandrakumar)
 [![NodeJS](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/Yashwanth-Chandrakumar)
 [![MUI](https://img.shields.io/badge/MUI-black.svg?style=for-the-badge&logo=mui&logoColor=white)](https://github.com/Yashwanth-Chandrakumar)
+[![MySQL](https://img.shields.io/badge/mysql-black.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Yashwanth-Chandrakumar)
 <h3 align-"left">🧑‍💻OS</h3>
 
 ![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)
