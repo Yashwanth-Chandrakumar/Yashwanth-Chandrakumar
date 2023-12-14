@@ -43,4 +43,7 @@
   <a href="https://github.com/Yashwanth-Chandrakumar">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yashwanth-Chandrakumar&show_icons=true&locale=en&theme=dark" alt="vignesh2004vasu" />
   </a>
-
+<br>
+<a href="https://github.com/Yashwanth-Chandrakumar">
+<img align="center" src="https://camo.githubusercontent.com/b9ae8bd……6573683…" alt="Yashwanth-Chandrakumar" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Yashwanth-Chandrakumar&show_icons=true&theme=dark&locale=en" style="max-width: 100%;">
+</a>
