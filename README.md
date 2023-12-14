@@ -23,9 +23,9 @@
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/Yashwanth-Chandrakumar)
 [![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)](https://github.com/Yashwanth-Chandrakumar)
 [![React Native](https://img.shields.io/badge/React_Native-black?style=for-the-badge&logo=react)](https://github.com/Yashwanth-Chandrakumar)
-[![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/Yashwanth-Chandrakumar)
-[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/Yashwanth-Chandrakumar)
-[![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)](https://github.com/Yashwanth-Chandrakumar)
+[![Spring](https://img.shields.io/badge/spring-black.svg?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/Yashwanth-Chandrakumar)
+[![NodeJS](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/Yashwanth-Chandrakumar)
+[![MUI](https://img.shields.io/badge/MUI-black.svg?style=for-the-badge&logo=mui&logoColor=white)](https://github.com/Yashwanth-Chandrakumar)
 <h3 align-"left">🧑‍💻OS</h3>
 
 ![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)
