@@ -68,5 +68,5 @@
   </a>
 <br>
 <a href="https://github.com/Yashwanth-Chandrakumar">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yashwanth-Chandrakumar&show_icons=true&locale=en&theme=dark&layout=compact" alt="Yashwanth-Chandrakumar">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yashwanth-Chandrakumar&show_icons=true&locale=en&theme=light&layout=compact" alt="Yashwanth-Chandrakumar">
 </a>
