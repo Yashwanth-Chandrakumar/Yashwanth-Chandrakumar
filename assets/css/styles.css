@@ -533,6 +533,7 @@ iframe {
 
   .about__container {
     grid-template-columns: repeat(2, 1fr);
+
     align-items: center;
     text-align: initial;
   }
@@ -556,6 +557,20 @@ iframe {
 
   .contact__container {
     justify-items: center;
+  }
+}
+
+@media screen and (max-width:768px) {
+  .about__container {
+    flex-direction: column;
+  }
+
+  .about__img {
+    width: 100%;
+  }
+
+  #abt {
+    margin-left: 0;
   }
 }
 
