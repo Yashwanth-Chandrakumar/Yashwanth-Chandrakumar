@@ -32,7 +32,9 @@
 [![Netlify](https://img.shields.io/badge/netlify-black.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://github.com/Yashwanth-Chandrakumar)
 [![Docker](https://img.shields.io/badge/docker-black.svg?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/Yashwanth-Chandrakumar)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-black.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://github.com/Yashwanth-Chandrakumar)
-
+[![PyTorch](https://img.shields.io/badge/PyTorch-black.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://github.com/Yashwanth-Chandrakumar)
+[![Keras](https://img.shields.io/badge/Keras-black.svg?style=for-the-badge&logo=Keras&logoColor=white)](https://github.com/Yashwanth-Chandrakumar)
+[![NumPy](https://img.shields.io/badge/numpy-black.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://github.com/Yashwanth-Chandrakumar)
 <h3 align-"left">⚒️ Building my skills on</h3>
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/yashwanth_sc/)
