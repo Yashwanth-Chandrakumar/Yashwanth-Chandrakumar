@@ -31,6 +31,7 @@
 [![AWS](https://img.shields.io/badge/AWS-black.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/Yashwanth-Chandrakumar)
 [![Netlify](https://img.shields.io/badge/netlify-black.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://github.com/Yashwanth-Chandrakumar)
 [![Docker](https://img.shields.io/badge/docker-black.svg?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/Yashwanth-Chandrakumar)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)(https://github.com/Yashwanth-Chandrakumar)
 
 <h3 align-"left">⚒️ Building my skills on</h3>
 
