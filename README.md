@@ -43,7 +43,7 @@
 [![Hackerearth](https://img.shields.io/badge/HackerEarth-black.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://github.com/Yashwanth-Chandrakumar)
 [![Kaggle](https://img.shields.io/badge/Kaggle-black?style=for-the-badge&logo=kaggle&logoColor=white)](https://github.com/Yashwanth-Chandrakumar)
 [![codingninjas](https://img.shields.io/badge/coding%20ninjas-black?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.codingninjas.com/studio/profile/YashwanthSC)
-[![Kaggle](https://img.shields.io/badge/Kaggle-black?style=for-the-badge&logo=kaggle&logoColor=white)](https://github.com/Yashwanth-Chandrakumar)
+
 
 <h3 align-"left">🤝My Current Partner(IDE)</h3>
 
