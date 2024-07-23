@@ -1,0 +1,28 @@
+<svg width="42" height="42" viewBox="0 0 42 42" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="paint0_linear" x1="3.26667" y1="1" x2="37.8" y2="39.1334" gradientUnits="userSpaceOnUse">
+        <stop offset="0.259336" stop-color="hsl(195, 100%, 72%)"/>
+        <stop offset="1" stop-color="hsl(180, 100%, 68%)"/>
+      </linearGradient>
+    </defs>
+    <circle cx="6" cy="11" r="2.5" fill="url(#paint0_linear)"/>
+    <circle cx="6" cy="31" r="2.5" fill="url(#paint0_linear)"/>
+    <circle cx="22" cy="6" r="2.5" fill="url(#paint0_linear)"/>
+    <circle cx="22" cy="16" r="2.5" fill="url(#paint0_linear)"/>
+    <circle cx="22" cy="26" r="2.5" fill="url(#paint0_linear)"/>
+    <circle cx="22" cy="36" r="2.5" fill="url(#paint0_linear)"/>
+    <circle cx="38" cy="21" r="2.5" fill="url(#paint0_linear)"/>
+    <line x1="6" y1="11" x2="22" y2="6" stroke="url(#paint0_linear)" stroke-width="0.5"/>
+    <line x1="6" y1="11" x2="22" y2="16" stroke="url(#paint0_linear)" stroke-width="0.5"/>
+    <line x1="6" y1="11" x2="22" y2="26" stroke="url(#paint0_linear)" stroke-width="0.5"/>
+    <line x1="6" y1="11" x2="22" y2="36" stroke="url(#paint0_linear)" stroke-width="0.5"/>
+    <line x1="6" y1="31" x2="22" y2="6" stroke="url(#paint0_linear)" stroke-width="0.5"/>
+    <line x1="6" y1="31" x2="22" y2="16" stroke="url(#paint0_linear)" stroke-width="0.5"/>
+    <line x1="6" y1="31" x2="22" y2="26" stroke="url(#paint0_linear)" stroke-width="0.5"/>
+    <line x1="6" y1="31" x2="22" y2="36" stroke="url(#paint0_linear)" stroke-width="0.5"/>
+    <line x1="22" y1="6" x2="38" y2="21" stroke="url(#paint0_linear)" stroke-width="0.5"/>
+    <line x1="22" y1="16" x2="38" y2="21" stroke="url(#paint0_linear)" stroke-width="0.5"/>
+    <line x1="22" y1="26" x2="38" y2="21" stroke="url(#paint0_linear)" stroke-width="0.5"/>
+    <line x1="22" y1="36" x2="38" y2="21" stroke="url(#paint0_linear)" stroke-width="0.5"/>
+  </svg>
+  
