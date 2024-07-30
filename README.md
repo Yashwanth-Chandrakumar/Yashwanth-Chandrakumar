@@ -59,7 +59,7 @@
 <h3 align-"left">🔥My Stats</h3>
 <p align="center">
   <a href="https://github.com/Yashwanth-Chandrakumar">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yashwanth-Chandrakumar&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yashwanth-Chandrakumar&theme=dark" />
   </a>
   <a href="https://github.com/Yashwanth-Chandrakumar">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashwanth-Chandrakumar&hide_border=true&card_width=338&theme=dark" />
@@ -68,7 +68,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yashwanth-Chandrakumar&theme=dark" />
   </a>
   <a href="https://github.com/Yashwanth-Chandrakumar">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yashwanth-Chandrakumar&show_icons=true&locale=en&theme=dark" alt="vignesh2004vasu" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yashwanth-Chandrakumar&show_icons=true&locale=en&theme=dark" alt="Yashwanth-Chandrakumar" />
   </a>
 <br>
 <a href="https://github.com/Yashwanth-Chandrakumar">
