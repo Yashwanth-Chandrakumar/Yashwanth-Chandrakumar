@@ -10,7 +10,7 @@
 
 - 📫 Reach me at yashwanth2k05@gmail.com
 
-- 📜 Get to know me in detail [Download Resume](https://github.com/Yashwanth-Chandrakumar/Yashwanth-Chandrakumar/blob/main/assets/My%20Resume.pdf)
+- 📜 Get to know me in detail [Download Resume](https://github.com/Yashwanth-Chandrakumar/Yashwanth-Chandrakumar/blob/main/assets/Yashwanth_S_C_CV%20(2).pdf)
 
 - 💡 Drink a lot of water ♦️ Hydration check ♦️
 <h3 align-"left">📜Languages and frameworks</h3>
