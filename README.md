@@ -56,7 +56,7 @@
 ![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)
 ![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)
 
-<h3 align-"left">🔥My Stats</h3>
+<h3 align-"left">⚡My Stats</h3>
 <p align="center">
   <a href="https://github.com/Yashwanth-Chandrakumar">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yashwanth-Chandrakumar&theme=algolia" />
